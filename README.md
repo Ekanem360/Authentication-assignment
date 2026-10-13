@@ -1,2 +1,2 @@
-# Authentication-assignment
-Authenticating api endpoints
+# FAST-API-AUTHENTICATION-ASSIGNMENT
+AUTHENTICATING ENDPOINTS IN THE API 
